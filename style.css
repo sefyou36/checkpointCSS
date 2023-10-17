@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+.title{
+    margin-bottom: 10px;
+}
 .container{
     display: flex;
     flex-direction: column;
@@ -30,6 +33,7 @@
     width: 50px;
     border-radius: 5px;
     cursor: pointer;
+    margin-right: 5px;
 }
 
 .search-button:hover {
